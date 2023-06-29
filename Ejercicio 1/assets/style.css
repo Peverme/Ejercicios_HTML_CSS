@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: blue;
+    background-color: red;
+}
+
+a{
+    color: yellow;
+    padding: 10px;
+}
+
+h1{
+    color: brown;
+    padding: 20px;
+}
+
+img{
+    width: 800px;
+    padding: 20px
+}
+
+p{
+    width: 1000px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    justify-content: flex-start;
+    list-style: none;
+    background-color: greenyellow;
+}
